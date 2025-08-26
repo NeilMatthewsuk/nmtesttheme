@@ -2,7 +2,7 @@
 deployment:
   tasks:
     # 1) Set your deploy path (EDIT THIS: cPanel user + theme folder)
-    - export DEPLOYPATH=/home/CPANELUSER/public_html/wp-content/themes/YOUR-THEME
+    - export DEPLOYPATH=/home/innovationforumc/public_html/wp-content/themes/innovation-forum
 
     # 2) Ensure the target exists
     - /bin/mkdir -p "$DEPLOYPATH"
