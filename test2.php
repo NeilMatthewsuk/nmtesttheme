@@ -1,4 +1,4 @@
 <?php
-
+/*/ remark */
 echo phpinfo();
 ?>
